@@ -74,6 +74,6 @@ NotesBackend/
 
 ## 👨‍💻 Author
 
-**Arko**
+**Abiw**
 
 GitHub: https://github.com/AbiwDev
